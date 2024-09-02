@@ -3,7 +3,7 @@ const app = express();
 const path = require(`path`);
 
 app.get("/", (req, res) => {
-  res.send("Hello, Node App is deploy successfully!");
+  res.send("Hello, Node App is deployed from GitHub successfully!");
 });
 
 // Listen to the App Engine-specified port, or 8080 otherwise
