@@ -1,2 +1,2 @@
 runtime: nodejs20
-service: app-engine-deploy-from-GitHub
+service: app-engine-deploy
